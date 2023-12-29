@@ -1,0 +1,1 @@
+duty rate = pulse width / frequency

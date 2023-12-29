@@ -1,0 +1,10 @@
+종류	UART	SPI	I2C	CAN	TCP/IP	UDP
+구분	비동기	동기	동기
+연결선	2개	4개	2개
+	Tx/Rx	Tx/Rx	SDA
+		CLK	CLK
+		CTL
+방식	전이중	전이중	반이중
+	1:1	1:N	1:N
+슬레이브	X	S/W	H/W
+		SS line Address 지정

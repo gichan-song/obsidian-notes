@@ -1,0 +1,1 @@
+USART <-> UART : Clock 소스의 유무

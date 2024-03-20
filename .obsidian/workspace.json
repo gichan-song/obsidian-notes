@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f946551ca413a8e4",
+        "id": "727ff7f41da4f998",
         "type": "tabs",
         "children": [
           {
-            "id": "8251f262c957d698",
+            "id": "2ac8191b25e0bc5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "시리얼 통신(UART).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86c84b3ff8a7a76a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-12-28.md",
+                "file": "2024-03-14.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"이선희 교수님/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-28.md",
+                "file": "2024-03-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-28.md",
+                "file": "2024-03-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-28.md"
+                "file": "2024-03-14.md"
               }
             }
           },
@@ -169,31 +157,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "86c84b3ff8a7a76a",
+  "active": "e8e4b416230bceef",
   "lastOpenFiles": [
+    "윤상현 교수님/2024-03-11.md",
+    "2024-03-14.md",
+    "윤상현 교수님/jetson-settings.md",
+    "PWM.md",
+    "Untitled.canvas",
+    "ADC.md",
     "시리얼 통신(UART).md",
     "2023-12-28.md",
-    "Excalidraw/Drawing 2023-12-15 09.23.32.excalidraw.md",
+    "2024-01-08.md",
     "2023-12-14.md",
-    "ADC.md",
-    "PWM.md",
+    "윤상현 교수님/2024-02-15.md",
+    "윤상현 교수님/openCV thresholding.md",
+    "윤상현 교수님/2024-03-08.md",
+    "윤상현 교수님/2024-03-07.md",
+    "김신현 교수님/2023-11-27.md",
+    "김신현 교수님/2023-11-15.md",
+    "김신현 교수님/2023-11-10.md",
+    "김신현 교수님/2023-11-09.md",
+    "김신현 교수님/2023-11-08.md",
+    "김신현 교수님/2023-11-06.md",
+    "윤상현 교수님/2023-11-01.md",
+    "윤상현 교수님/2023-11-02.md",
+    "Excalidraw/Drawing 2023-12-15 09.23.32.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-05 10.29.00.excalidraw.md",
     "Drawing 2023-12-12 16.37.41.excalidraw.md",
     "Excalidraw/Drawing 2023-12-12 16.16.41.excalidraw.md",
     "Excalidraw",
     "Drawing 2023-12-12 16.14.38.excalidraw.md",
-    "이재성 교수님/OT.md",
-    "이선희 교수님/2023-12-08.md",
-    "이선희 교수님/2023-11-21.md",
-    "이선희 교수님/2023-11-22.md",
-    "이선희 교수님/2023-11-29.md",
-    "김신현 교수님/2023-11-08.md",
-    "김신현 교수님/2023-11-09.md",
-    "김신현 교수님/2023-11-10.md",
     "이재성 교수님",
-    "이선희 교수님/멀티프로세싱 목차.md",
-    "이선희 교수님/클래스 메서드.md",
-    "이선희 교수님/멀티프로세싱.md",
-    "2023-12-08.md",
     "이선희 교수님/MP/mp_Value.py",
     "이선희 교수님/MP/mp_start.py",
     "이선희 교수님/MP/mp_SimpleQueue.py",
@@ -202,12 +196,6 @@
     "이선희 교수님/MP/mp_Pool_map.py",
     "이선희 교수님/MP/mp_Pool_apply.py",
     "이선희 교수님/MP/mp_pipe.py",
-    "ㅇㄴㅁ.md",
-    "김신현 교수님/2023-11-27.md",
-    "이선희 교수님/2023-11-03.md",
-    "김신현 교수님/2023-11-15.md",
-    "김신현 교수님/2023-11-06.md",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
   ]
